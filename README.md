@@ -34,4 +34,4 @@ $("myDiv").hmRotate({updatableposition:true}); //default false. This can be used
 
 Sample Online:
 
-http://jsfiddle.net/8FmRd/779/
+http://jsfiddle.net/8FmRd/872/
