@@ -1,7 +1,7 @@
 HMRotate
 ==========
 
-Plugin to add rotate function using jquery
+Rotate html objects using jquery
 
 how to use:
 
@@ -19,11 +19,11 @@ $("#myDiv").hmRotate();
 //CSS
 ```html
 .hmrotate-api-rotate-symbol{
-    background-image: url('http://www.draw4free.com/help/icons/rotate.png'); //you just need to put the rotate image
+    background-image: url('http://www.draw4free.com/help/icons/rotate.png'); //add your custom image here
 }
 ```
 
-P.S: You also can use this with options. 
+P.S: You can also call it with options.. 
 e.g:
 
 ```html
